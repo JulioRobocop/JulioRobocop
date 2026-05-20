@@ -50,13 +50,6 @@ Former **Materials Engineer** who fell in love with software. Currently deepenin
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="http://www.github.com/JulioRobocop">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioRobocop&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=6e7681&hide_border=true" />
-</a>
-
----
 
 <div align="center">
   <i>Open to collaborating on front-end, back-end, and AI agent projects.</i>
