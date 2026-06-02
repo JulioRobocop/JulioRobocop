@@ -17,7 +17,7 @@
 
 Full Stack Jr. Developer at **Pado S/A**, where I manage the full lifecycle of digital lock systems — from building responsive UIs with React.js to orchestrating high-speed data flows on Google Cloud Platform with Kubernetes. I integrate TypeScript-driven AI agents as autonomous monitors that analyze, judge, and self-correct system anomalies in real time.
 
-Former **Materials Engineer** who fell in love with software. Currently deepening my knowledge in **LLMs and AI agents**.
+Former **Materials Engineer** who fell in love with software. Currently deepening my knowledge in **JAVA**.
 
 ---
 
