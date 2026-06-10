@@ -21,10 +21,13 @@ I'm the primary developer of **CESTOU**, an end-to-end full-stack system (Java 2
 
 Currently deepening my expertise through a **Postgraduate Specialization in Java** at UTFPR.
 
-!🔭 Focused on backend development with Java & Spring Boot
-!🌱 Currently learning advanced Spring patterns, system design, and clean architecture
-!💬 Ask me about Java, Spring Boot, REST APIs, Kubernetes, or full-stack development
-!📫 Reach me at juliocesar.gp44@gmail.com
+🔭 Focused on backend development with Java & Spring Boot
+
+🌱 Currently learning advanced Spring patterns, system design, and clean architecture
+
+💬 Ask me about Java, Spring Boot, REST APIs, Kubernetes, or full-stack development
+
+📫 Reach me at juliocesar.gp44@gmail.com
 
 ---
 
