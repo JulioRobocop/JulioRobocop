@@ -3,7 +3,7 @@
 # Julio C. Gonçalves
 ### Jr. Developer · Brasil 🇧🇷
 
-*Building seamless, secure digital experiences — from reactive UIs to cloud-native backends*
+*Backend-focused Full Stack Developer · Java · Spring Boot · Building production systems that scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-gon%C3%A7alves-bb0134201/)
 [![GitHub followers](https://img.shields.io/github/followers/JulioRobocop?style=flat-square&color=0891b2&labelColor=1c1917&logo=github)](https://www.github.com/JulioRobocop)
@@ -15,9 +15,16 @@
 
 ### About me
 
-Full Stack Jr. Developer at **Pado S/A**, where I manage the full lifecycle of digital lock systems — from building responsive UIs with React.js to orchestrating high-speed data flows on Google Cloud Platform with Kubernetes. I integrate TypeScript-driven AI agents as autonomous monitors that analyze, judge, and self-correct system anomalies in real time.
+Full Stack Developer at **Pado S/A**, where I build and maintain production systems for digital lock products — working across the stack from **Java + Spring Boot** backends to **React** and **Vue** interfaces.
 
-Former **Materials Engineer** who fell in love with software. Currently deepening my knowledge in **JAVA**.
+I'm the primary developer of **CESTOU**, an end-to-end full-stack system (Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Vue 3) currently in production serving **~1,000 internal users**. I also restructured our microservices architecture on **Kubernetes (GKE)** with Horizontal Pod Autoscaling, eliminating downtime during peak hours.
+
+Currently deepening my expertise through a **Postgraduate Specialization in Java** at UTFPR.
+
+🔭 Focused on backend development with Java & Spring Boot
+🌱 Currently learning advanced Spring patterns, system design, and clean architecture
+💬 Ask me about Java, Spring Boot, REST APIs, Kubernetes, or full-stack development
+📫 Reach me at juliocesar.gp44@gmail.com
 
 ---
 
